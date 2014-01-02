@@ -51,7 +51,7 @@ public class GoFileImpl extends PsiFileBase implements GoFile {
 
     @Override
     public String toString() {
-        return "Go file";
+        return "GoFile";
     }
 
     @Override
